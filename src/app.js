@@ -7,7 +7,7 @@ export default class App extends Component {
    render() { 
     return (
     <div>
-      <div className="game-container">
+      <div className="dashboard-container">
         <DashBoard /> 
       </div>
     </div>
